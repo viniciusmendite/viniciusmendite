@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vinícius Mendite 👋
+## Olá! Me chamo Vinícius Mendite 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-mendite-4493211a4/)
 
